@@ -2,7 +2,6 @@ import React, {useEffect} from 'react';
 import {useSelector, useDispatch} from 'react-redux'
 import './App.css';
 import allActions from './actions'
-import { all } from 'q';
 
 
 const App = () => {
